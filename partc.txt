@@ -1,3 +1,15 @@
+commit 0721dc771d4eadbb0497e4407c9ba79eb6214156
+Author: root <root@CS550-nraju1.csvb.local>
+Date:   Sun Oct 22 20:26:26 2017 -0400
+
+    makefile send
+
+commit 1d0c7b4a9159c88588a4d05a48176ca1d9268385
+Author: root <root@CS550-nraju1.csvb.local>
+Date:   Sun Oct 22 19:57:34 2017 -0400
+
+    git log
+
 commit c5bbc4d8986ff8e0aab74bf66008d8b827cb40a0
 Author: root <root@CS550-nraju1.csvb.local>
 Date:   Sun Oct 22 19:53:30 2017 -0400
