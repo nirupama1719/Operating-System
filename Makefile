@@ -1,7 +1,8 @@
 #
 # Makefile for the linux kernel.
 #
-obj-m	  = mochardevice.o samplechardev.o
+CONFIG_MODULE_SIG=n
+obj-m	  = mochardevice.o samplechardev.o concurrency.o
 obj-y     = fork.o exec_domain.o panic.o \
 	    cpu.o exit.o softirq.o resource.o \
 	    sysctl.o sysctl_binary.o capability.o ptrace.o user.o \
